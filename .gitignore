@@ -5,7 +5,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Configurações do VS Code (opcional)
+# Configurações do VS Code
 .vscode/
 
 # Sistema operacional
